@@ -22,7 +22,7 @@ export async function registerServiceWorker() {
   }
 
   try {
-    const registration = await navigator.serviceWorker.register('/StoryApp_Hikam/sw.bundle.js');
+    const registration = await navigator.serviceWorker.register('/StoryApp-Hikam/sw.bundle.js');
     console.log('Service worker telah terpasang', registration);
   } catch (error) {
     console.log('Failed to install service worker:', error);
@@ -48,3 +48,4 @@ export function convertBase64ToUint8Array(base64String) {
   }
   return outputArray;
 }
+
