@@ -2,7 +2,7 @@
   "name": "app-starter-project-with-webpack",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://hikamsirrul.github.io/StoryApp_Hikam",
+  "homepage": "https://hikamsirrul.github.io/StoryApp-Hikam",
   "scripts": {
     "build": "webpack --config webpack.prod.js",
     "predeploy": "npm run build",
