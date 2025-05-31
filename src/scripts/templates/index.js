@@ -26,7 +26,6 @@ const generateSubscribeButtonTemplate = () => `
   </style>
 
   <button id="subscribe-button" aria-label="Aktifkan Notifikasi">
-    <span class="icon" aria-hidden="true">🔔</span>
     Subscribe
   </button>
 `;
@@ -59,7 +58,6 @@ const generateUnsubscribeButtonTemplate = () => `
   </style>
 
   <button id="unsubscribe-button" aria-label="Nonaktifkan Notifikasi">
-    <span class="icon" aria-hidden="true">🔕</span>
     Unsubscribe
   </button>
 `;
