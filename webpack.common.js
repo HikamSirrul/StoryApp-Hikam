@@ -10,7 +10,7 @@ module.exports = {
   output: {
     filename: '[name].bundle.js',
     path: path.resolve(__dirname, 'dist'),
-    publicPath: '/StoryApp_NaufalPs/', 
+    publicPath: '/StoryApp_Hikam/', 
   },
   module: {
     rules: [

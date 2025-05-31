@@ -17,8 +17,8 @@ export default class AboutPage {
           <h2>Hubungi Saya</h2>
           <p>Untuk pertanyaan lebih lanjut atau untuk berbicara langsung dengan saya, Anda bisa menghubungi saya melalui:</p>
           <ul>
-            <li><strong>WhatsApp:</strong> <a href="https://wa.me/6289513149721" aria-label="Hubungi saya melalui WhatsApp">Klik di sini untuk mengirim pesan</a></li>
-            <li><strong>Instagram:</strong> <a href="https://instagram.com/naufalpratistas" aria-label="Kunjungi Instagram saya">@naufalpratistas</a></li>
+            <li><strong>WhatsApp:</strong> <a href="https://wa.me/628882370643" aria-label="Hubungi saya melalui WhatsApp">Klik di sini untuk mengirim pesan</a></li>
+            <li><strong>Instagram:</strong> <a href="https://instagram.com/hikamsrl" aria-label="Kunjungi Instagram saya">@hikamsrl</a></li>
           </ul>
         </section>
       </section>

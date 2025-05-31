@@ -1,4 +1,4 @@
-const BASE_PATH = '/StoryApp_Hikam';
+const BASE_PATH = '/StoryApp-Hikam';
 const CACHE_NAME = 'Story-App-cache-v1';
 
 const urlsToCache = [
