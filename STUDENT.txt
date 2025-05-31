@@ -1,3 +1,1 @@
-APP_URL=<http://localhost:9000/>
-MAP_SERVICE_API_KEY=<fXhSzYKvQ1NY7kv9n9Vp>
-DEPLOY_URL=<https://xalltzy.github.io/StoryApp_Hikam/>
+DEPLOY_URL=<https://HikamSirrul.github.io/StoryApp_Hikam/>
