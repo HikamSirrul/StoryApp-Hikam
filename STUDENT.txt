@@ -1,1 +1,1 @@
-DEPLOY_URL=<https://HikamSirrul.github.io/StoryApp_Hikam/>
+DEPLOY_URL=<https://HikamSirrul.github.io/StoryApp-Hikam/>
